@@ -129,4 +129,58 @@ Register new medicines in the system.
 4. Medicine Search
 Search for existing medicines by name or ID.
 
+Snapshots
+------------
+
+Home page
+--------
+
+<img width="960" alt="image" src="https://github.com/21000032540sanjaykumar/hospital-management-system-master/assets/110719261/83cb303c-8ef8-4def-a56c-d3f236494d49">
+
+
+Login Page
+-----------
+
+
+<img width="960" alt="image" src="https://github.com/21000032540sanjaykumar/hospital-management-system-master/assets/110719261/01078d0e-39af-437b-80a1-e6489db759ae">
+
+Admin Login
+----------
+
+<img width="960" alt="image" src="https://github.com/21000032540sanjaykumar/hospital-management-system-master/assets/110719261/13c41199-afb4-44c8-83f2-fad9f840f8c1">
+
+Admin Register
+------
+<img width="960" alt="image" src="https://github.com/21000032540sanjaykumar/hospital-management-system-master/assets/110719261/99625bcc-00d3-4993-b9fc-3d3f9203acfd">
+
+Doctor Login
+-----
+<img width="960" alt="image" src="https://github.com/21000032540sanjaykumar/hospital-management-system-master/assets/110719261/33a84e69-10d4-4699-a3e5-042f6aea31fd">
+
+Pharmacist Login 
+----
+
+<img width="960" alt="image" src="https://github.com/21000032540sanjaykumar/hospital-management-system-master/assets/110719261/80e67f78-7ee3-4cc2-977f-9aa7ef606a6f">
+
+Receptionist Login
+--------------
+<img width="960" alt="image" src="https://github.com/21000032540sanjaykumar/hospital-management-system-master/assets/110719261/5db6568d-de11-497d-a83f-4f7edd272bd1">
+
+Admin Dashboard 
+---------------
+
+<img width="960" alt="image" src="https://github.com/21000032540sanjaykumar/hospital-management-system-master/assets/110719261/bd61bcae-87aa-44c3-9dee-b5d830500176">
+
+Doctor Dashboard
+-----------
+<img width="960" alt="image" src="https://github.com/21000032540sanjaykumar/hospital-management-system-master/assets/110719261/491da349-e8a5-4da0-b4df-854f91ae511d">
+
+Pharmacist Dashboard
+------------
+<img width="960" alt="image" src="https://github.com/21000032540sanjaykumar/hospital-management-system-master/assets/110719261/364cbb81-efc3-4557-807b-5fe9fc09ee7d">
+
+Receptionist Dashboard
+-----
+<img width="960" alt="image" src="https://github.com/21000032540sanjaykumar/hospital-management-system-master/assets/110719261/cab29f6d-dd03-41b2-8a31-9f330d7e8378">
+
 
